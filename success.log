@@ -1,0 +1,3 @@
+INFO 2023-12-26 13:01:59,113 views success_logger The user with username:user1created successfully
+INFO 2023-12-26 15:57:23,807 views success_logger The user with username:user2created successfully
+INFO 2023-12-26 15:58:22,536 views success_logger Person with id1 created successfully
